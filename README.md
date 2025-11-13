@@ -40,14 +40,30 @@ The project uses **Maven** for dependency management and builds configuration. K
 - **TestNG** for running tests and defining test suites.
 
 ## 🚀 Getting Started
-To get started with this project, follow these steps:
+Clone the repo
+Open the project in your preferred IDE (e.g., IntelliJ IDEA or Eclipse)
+Install dependencies using Maven
+Run test classes:
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/fatmaessa5/nopEcommerce.git
-2.**Open the project in your preferred IDE (e.g., IntelliJ IDEA or Eclipse)
-  ```bash
-   mvn install
-3.**Run test classes
-  ```bash
-  mvn clean test
+## 🧩 Using Maven
+ mvn clean test
+
+##🧠 Lessons Learned
+A separate file, Learned_Lessons.md, includes a summary of key concepts gained during this project.
+
+Key Takeaways:
+- **Modular test design** with the Page Object Model for maintainability.
+- **TestNG** for managing test execution, retries, and parallel test execution.
+- **Data-driven testing using JSON files** and utility classes for dynamic test data management.
+- **Test maintenance** with custom utilities to handle configurations and reusable functions.
+- **This project improved my ability to design enterprise-level automation frameworks and apply best practices in real-world web application testing**.
+
+##👨‍💻 Author
+
+- **Fatma Essa**
+- **Junior Software QC Engineer**
+- **📧 fatma.essa5@gmail.com**
+
+- **🔗 LinkedIn Profile**
+
+- **💻 GitHub Repository**
