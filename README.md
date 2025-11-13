@@ -45,3 +45,9 @@
 7. Update details (e.g., change password or address).
 8. Save → verify confirmation message.
 9. Log out and log back in (if password changed).
+##🛠️ Tech Stack
+Java 21
+Selenium WebDriver 4.34.0
+TestNG 7.10.2
+JSON-Simple 1.1.1
+Maven (Build & Dependency Management)
