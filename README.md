@@ -58,12 +58,13 @@ Key Takeaways:
 - **Test maintenance** with custom utilities to handle configurations and reusable functions.
 - **This project improved my ability to design enterprise-level automation frameworks and apply best practices in real-world web application testing**.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
-- **Fatma Essa**
-- **Junior Software QC Engineer**
-- **📧 fatma.essa5@gmail.com**
+**Fatma Essa**  
+Junior Software QC Engineer  
+📧 fatma.essa5@gmail.com  
 
-- **🔗 LinkedIn Profile**
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/fatma-essa-63a658197)  
 
-- **💻 GitHub Repository**
+💻 [GitHub Repository](https://github.com/fatmaessa5/nopEcommerce)
+
